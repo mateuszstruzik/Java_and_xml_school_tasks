@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <doc>
+	<persons>
+		<person companyid="c1">
+			<id>p1</id>
+			<firstname>Michal</firstname>
+			<secondname>Kowalski</secondname>
+			<e-mail>michal.kowalski@gmail.com</e-mail>
+			<phone>1111111</phone>
+		</person>
+		<person companyid="c1">
+			<id>p2</id>
+			<firstname>Marcin</firstname>
+			<secondname>Szczot</secondname>
+			<e-mail>marcin.szczot@gmail.com</e-mail>
+			<phone>2222222</phone>
+		</person>
+		<person companyid="c1">
+			<id>p3</id>
+			<firstname>Adam</firstname>
+			<secondname>Nowak</secondname>
+			<e-mail>adam.nowak@gmail.com</e-mail>
+			<phone>3333333</phone>
+		</person>
+		<person companyid="c2">
+			<id>p4</id>
+			<firstname>Rafal</firstname>
+			<secondname>Gon</secondname>
+			<e-mail>rafal.gon@gmail.com</e-mail>
+			<phone>4444444</phone>
+		</person>
+		<person companyid="c2">
+			<id>p5</id>
+			<firstname>Olek</firstname>
+			<secondname>Rachon</secondname>
+			<e-mail>olek.rachon@gmail.com</e-mail>
+			<phone>55555555</phone>
+		</person>
+	</persons>
+	<companies>
+		<company>
+			<id>c11</id>
+			<name>Wielka</name>
+			<adress>Wroclaw</adress>
+			<phone>123456</phone>
+			<web_page>www.wielka.pl</web_page>
+			<persons>
+				<personid>p1</personid>
+				<personid>p2</personid>
+				<personid>p3</personid>
+			</persons>
+		</company>
+		<company>
+			<id>c2</id>
+			<name>Mala</name>
+			<adress>Wielun</adress>
+			<phone>127890</phone>
+			<web_page>www.mala.pl</web_page>
+		<persons>
+				<personid>p4</personid>
+				<personid>p5</personid>
+		</persons>
+		</company>
+	</companies>
+</doc>

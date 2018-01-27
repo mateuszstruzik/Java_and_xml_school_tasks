@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<saveLoad move_count="9">
+    <button_mark>
+        <data>O</data>
+    </button_mark>
+    <button_mark>
+        <data>X</data>
+    </button_mark>
+    <button_mark>
+        <data></data>
+    </button_mark>
+    <button_mark>
+        <data></data>
+    </button_mark>
+    <button_mark>
+        <data></data>
+    </button_mark>
+    <button_mark>
+        <data></data>
+    </button_mark>
+    <button_mark>
+        <data></data>
+    </button_mark>
+    <button_mark>
+        <data>O</data>
+    </button_mark>
+    <button_mark>
+        <data></data>
+    </button_mark>
+</saveLoad>

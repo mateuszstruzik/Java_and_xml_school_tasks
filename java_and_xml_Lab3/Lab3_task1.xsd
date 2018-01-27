@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+targetNamespace="https://www.w3schools.com"
+xmlns="https://www.w3schools.com"
+elementFormDefault="qualified">
+
+<xs:element name="PERSON">
+	<xs:complexType mixed="true">
+		<xs:sequence>
+		<xs:element name="NAME" type="xs:string"/>
+		<xs:element name="SURNAME" type="xs:string"/>
+		<xs:element name="HOMEADDR" type="xs:string"/>
+		<xs:element name="PHONE" type="xs:string"/>
+		<xs:element name="JOB" type="xs:string"/>
+		</xs:sequence>
+	</xs:complexType>
+
+</xs:element>
+</xs:schema>

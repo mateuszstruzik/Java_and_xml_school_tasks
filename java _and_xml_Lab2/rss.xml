@@ -1,0 +1,928 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Lab2_task5.xslt"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+<title>At War</title>
+<atom:link href="http://atwar.blogs.nytimes.com/feed/" rel="self" type="application/rss+xml"/>
+<link>http://atwar.blogs.nytimes.com/</link>
+<description>Notes From the Front Lines</description>
+<lastBuildDate>Fri, 07 Mar 2014 18:15:12 +0000</lastBuildDate>
+<language>en-US</language>
+<sy:updatePeriod>hourly</sy:updatePeriod>
+<sy:updateFrequency>1</sy:updateFrequency>
+<generator>http://wordpress.org/?v=3.6.1</generator>
+<image>
+<url>
+http://graphics8.nytimes.com/images/section/NytSectionHeader.gif
+</url>
+<title>NYT</title>
+<link>http://www.nytimes.com</link>
+</image>
+<item>
+<title>
+Building Bridges Between the Military and Universities
+</title>
+<link>
+http://atwar.blogs.nytimes.com/2014/03/07/building-bridges-between-the-military-and-universities/
+</link>
+<comments>
+http://atwar.blogs.nytimes.com/2014/03/07/building-bridges-between-the-military-and-universities/#respond
+</comments>
+<pubDate>Fri, 07 Mar 2014 18:15:12 +0000</pubDate>
+<dc:creator>By DAVID F. EISLER</dc:creator>
+<category>
+<![CDATA[ A Soldier Writes ]]>
+</category>
+<category>
+<![CDATA[ Afghanistan ]]>
+</category>
+<category>
+<![CDATA[ At War ]]>
+</category>
+<category>
+<![CDATA[ Civilian-military relations ]]>
+</category>
+<category>
+<![CDATA[ GI Bill ]]>
+</category>
+<category>
+<![CDATA[ Iraq War: 2003 - 2011 ]]>
+</category>
+<category>
+<![CDATA[ Public opinion ]]>
+</category>
+<category>
+<![CDATA[ Veterans ]]>
+</category>
+<category>
+<![CDATA[ Bacevich, Andrew J ]]>
+</category>
+<category>
+<![CDATA[ City University of New York ]]>
+</category>
+<category>
+<![CDATA[ Colleges and Universities ]]>
+</category>
+<category>
+<![CDATA[ Columbia University ]]>
+</category>
+<category>
+<![CDATA[ Mattis, James N ]]>
+</category>
+<category>
+<![CDATA[ Mullen, Michael G ]]>
+</category>
+<category>
+<![CDATA[ New York City ]]>
+</category>
+<category>
+<![CDATA[ Olson, Eric ]]>
+</category>
+<category>
+<![CDATA[ Petraeus, David H ]]>
+</category>
+<category>
+<![CDATA[ Princeton (NJ) ]]>
+</category>
+<guid isPermaLink="false">
+http://atwar.blogs.nytimes.com/2014/03/07/building-bridges-between-the-military-and-universities/
+</guid>
+<description>
+<![CDATA[
+Historically, the relationship between universities and the military has been complicated, though it wasn’t always so tense.
+]]>
+</description>
+<wfw:commentRss>
+http://atwar.blogs.nytimes.com/2014/03/07/building-bridges-between-the-military-and-universities/feed/
+</wfw:commentRss>
+<slash:comments>0</slash:comments>
+</item>
+<item>
+<title>Watching Football, Waiting for War</title>
+<link>
+http://atwar.blogs.nytimes.com/2014/02/27/watching-football-waiting-for-war/
+</link>
+<comments>
+http://atwar.blogs.nytimes.com/2014/02/27/watching-football-waiting-for-war/#respond
+</comments>
+<pubDate>Thu, 27 Feb 2014 16:09:11 +0000</pubDate>
+<dc:creator>By BRANDON LINGLE</dc:creator>
+<category>
+<![CDATA[ Afghanistan ]]>
+</category>
+<category>
+<![CDATA[ At War ]]>
+</category>
+<category>
+<![CDATA[ International Security Assistance Force ]]>
+</category>
+<category>
+<![CDATA[ U.S. Defense and Military Forces ]]>
+</category>
+<category>
+<![CDATA[ Voices ]]>
+</category>
+<category>
+<![CDATA[ Afghanistan War (2001- ) ]]>
+</category>
+<category>
+<![CDATA[ Defense Department ]]>
+</category>
+<category>
+<![CDATA[ Football ]]>
+</category>
+<category>
+<![CDATA[ Iraq ]]>
+</category>
+<category>
+<![CDATA[ Manning, Peyton ]]>
+</category>
+<category>
+<![CDATA[ Super Bowl ]]>
+</category>
+<category>
+<![CDATA[ United States Air Force ]]>
+</category>
+<category>
+<![CDATA[ United States Defense and Military Forces ]]>
+</category>
+<guid isPermaLink="false">
+http://atwar.blogs.nytimes.com/2014/02/27/watching-football-waiting-for-war/
+</guid>
+<description>
+<![CDATA[
+Brandon Lingle, who served in Iraq and Afghanistan, shares his views on being deployed to Afghanistan when the country isn't really paying attention.
+]]>
+</description>
+<wfw:commentRss>
+http://atwar.blogs.nytimes.com/2014/02/27/watching-football-waiting-for-war/feed/
+</wfw:commentRss>
+<slash:comments>0</slash:comments>
+</item>
+<item>
+<title>Coping with Retirement</title>
+<link>
+http://atwar.blogs.nytimes.com/2014/02/20/coping-with-retirement/
+</link>
+<comments>
+http://atwar.blogs.nytimes.com/2014/02/20/coping-with-retirement/#respond
+</comments>
+<pubDate>Fri, 21 Feb 2014 03:06:00 +0000</pubDate>
+<dc:creator>By THOMAS JAMES BRENNAN</dc:creator>
+<category>
+<![CDATA[ Afghanistan ]]>
+</category>
+<category>
+<![CDATA[ At War ]]>
+</category>
+<category>
+<![CDATA[ Families ]]>
+</category>
+<category>
+<![CDATA[ health ]]>
+</category>
+<category>
+<![CDATA[ Improvised Explosive Devices ]]>
+</category>
+<category>
+<![CDATA[ PTSD ]]>
+</category>
+<category>
+<![CDATA[ Traumatic Brain Injury ]]>
+</category>
+<category>
+<![CDATA[ Veterans ]]>
+</category>
+<category>
+<![CDATA[ Voices ]]>
+</category>
+<category>
+<![CDATA[ Afghanistan War (2001- ) ]]>
+</category>
+<category>
+<![CDATA[ Mental Health and Disorders ]]>
+</category>
+<category>
+<![CDATA[ North Carolina ]]>
+</category>
+<category>
+<![CDATA[ Psychology and Psychologists ]]>
+</category>
+<category>
+<![CDATA[ Suicides and Suicide Attempts ]]>
+</category>
+<category>
+<![CDATA[ United States Defense and Military Forces ]]>
+</category>
+<category>
+<![CDATA[ United States Marine Corps ]]>
+</category>
+<guid isPermaLink="false">
+http://atwar.blogs.nytimes.com/2014/02/20/coping-with-retirement/
+</guid>
+<description>
+<![CDATA[
+Thomas James Brennan tries to move on with his life after being medically retired from the Marine Corps and finds a number of obstacles in his way.
+]]>
+</description>
+<wfw:commentRss>
+http://atwar.blogs.nytimes.com/2014/02/20/coping-with-retirement/feed/
+</wfw:commentRss>
+<slash:comments>0</slash:comments>
+</item>
+<item>
+<title>The Song Doesn’t Remain the Same</title>
+<link>
+http://atwar.blogs.nytimes.com/2014/02/11/the-song-doesnt-remain-the-same/
+</link>
+<comments>
+http://atwar.blogs.nytimes.com/2014/02/11/the-song-doesnt-remain-the-same/#respond
+</comments>
+<pubDate>Tue, 11 Feb 2014 20:03:40 +0000</pubDate>
+<dc:creator>By NEIL GUSSMAN</dc:creator>
+<category>
+<![CDATA[ A Soldier Writes ]]>
+</category>
+<category>
+<![CDATA[ Afghanistan ]]>
+</category>
+<category>
+<![CDATA[ At War ]]>
+</category>
+<category>
+<![CDATA[ Dark Humor ]]>
+</category>
+<category>
+<![CDATA[ History ]]>
+</category>
+<category>
+<![CDATA[ Iraq War: 2003 - 2011 ]]>
+</category>
+<category>
+<![CDATA[ Military traditions ]]>
+</category>
+<category>
+<![CDATA[ Veterans ]]>
+</category>
+<category>
+<![CDATA[ Vietnam ]]>
+</category>
+<category>
+<![CDATA[ Fort Meade (Md) ]]>
+</category>
+<category>
+<![CDATA[ Jarhead (Movie) ]]>
+</category>
+<category>
+<![CDATA[ Lackland Air Force Base (San Antonio, Tex) ]]>
+</category>
+<category>
+<![CDATA[ National Guard ]]>
+</category>
+<category>
+<![CDATA[ Reserves (Military) ]]>
+</category>
+<category>
+<![CDATA[ United States Defense and Military Forces ]]>
+</category>
+<guid isPermaLink="false">
+http://atwar.blogs.nytimes.com/2014/02/11/the-song-doesnt-remain-the-same/
+</guid>
+<description>
+<![CDATA[ Sgt. Neil Gussman on the ritual of marching songs. ]]>
+</description>
+<wfw:commentRss>
+http://atwar.blogs.nytimes.com/2014/02/11/the-song-doesnt-remain-the-same/feed/
+</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<media:content url="http://graphics8.nytimes.com/images/2014/02/11/world/11atwar/11atwar-thumbStandard.jpg" medium="image" width="75" height="75"/>
+</item>
+<item>
+<title>Portrait of an Army Family</title>
+<link>
+http://atwar.blogs.nytimes.com/2014/02/07/portrait-of-an-army-family/
+</link>
+<comments>
+http://atwar.blogs.nytimes.com/2014/02/07/portrait-of-an-army-family/#respond
+</comments>
+<pubDate>Fri, 07 Feb 2014 19:18:45 +0000</pubDate>
+<dc:creator>By ALEX QUADE</dc:creator>
+<category>
+<![CDATA[ Afghanistan ]]>
+</category>
+<category>
+<![CDATA[ At War ]]>
+</category>
+<category>
+<![CDATA[ Families ]]>
+</category>
+<category>
+<![CDATA[ Iraq War: 2003 - 2011 ]]>
+</category>
+<category>
+<![CDATA[ Veterans ]]>
+</category>
+<category>
+<![CDATA[ Afghanistan War (2001- ) ]]>
+</category>
+<category>
+<![CDATA[ Boise (Idaho) ]]>
+</category>
+<category>
+<![CDATA[ Defense and Military Forces ]]>
+</category>
+<category>
+<![CDATA[ Idaho ]]>
+</category>
+<category>
+<![CDATA[ Iraq ]]>
+</category>
+<category>
+<![CDATA[ Iraq War (2003-11) ]]>
+</category>
+<category>
+<![CDATA[ National Guard ]]>
+</category>
+<category>
+<![CDATA[ Pruett family ]]>
+</category>
+<guid isPermaLink="false">
+http://atwar.blogs.nytimes.com/2014/02/07/portrait-of-an-army-family/
+</guid>
+<description>
+<![CDATA[
+Alex Quade profiles the Pruetts, an Army family of eight who deployed 11 times.
+]]>
+</description>
+<wfw:commentRss>
+http://atwar.blogs.nytimes.com/2014/02/07/portrait-of-an-army-family/feed/
+</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<media:content url="http://graphics8.nytimes.com/images/2014/02/06/world/06atwar2/06atwar2-thumbStandard.jpg" medium="image" width="75" height="75"/>
+</item>
+<item>
+<title>
+Reflections on Falluja and the Impermanence of Victory
+</title>
+<link>
+http://atwar.blogs.nytimes.com/2014/01/28/reflections-on-falluja-and-the-impermanence-of-victory/
+</link>
+<comments>
+http://atwar.blogs.nytimes.com/2014/01/28/reflections-on-falluja-and-the-impermanence-of-victory/#respond
+</comments>
+<pubDate>Tue, 28 Jan 2014 18:32:23 +0000</pubDate>
+<dc:creator>By TERESA FAZIO</dc:creator>
+<category>
+<![CDATA[ At War ]]>
+</category>
+<category>
+<![CDATA[ Iraq ]]>
+</category>
+<category>
+<![CDATA[ Iraq War: 2003 - 2011 ]]>
+</category>
+<category>
+<![CDATA[ Veterans ]]>
+</category>
+<category>
+<![CDATA[ Al Qaeda ]]>
+</category>
+<category>
+<![CDATA[ Darts (Game) ]]>
+</category>
+<category>
+<![CDATA[ Falluja (Iraq) ]]>
+</category>
+<category>
+<![CDATA[ Iraq War (2003-11) ]]>
+</category>
+<category>
+<![CDATA[ United States ]]>
+</category>
+<category>
+<![CDATA[ United States Defense and Military Forces ]]>
+</category>
+<category>
+<![CDATA[ United States Marine Corps ]]>
+</category>
+<guid isPermaLink="false">
+http://atwar.blogs.nytimes.com/2014/01/28/reflections-on-falluja-and-the-impermanence-of-victory/
+</guid>
+<description>
+<![CDATA[
+Though an affiliate of Al Qaeda has taken control of much of Falluja, Iraq, in recent weeks, a Marine officer refuses to believe that her service in the country was for nothing.
+]]>
+</description>
+<wfw:commentRss>
+http://atwar.blogs.nytimes.com/2014/01/28/reflections-on-falluja-and-the-impermanence-of-victory/feed/
+</wfw:commentRss>
+<slash:comments>0</slash:comments>
+</item>
+<item>
+<title>Seeing My Friend Depicted in ‘Lone Survivor’</title>
+<link>
+http://atwar.blogs.nytimes.com/2014/01/24/seeing-my-friend-depicted-in-lone-survivor/
+</link>
+<comments>
+http://atwar.blogs.nytimes.com/2014/01/24/seeing-my-friend-depicted-in-lone-survivor/#respond
+</comments>
+<pubDate>Fri, 24 Jan 2014 14:31:12 +0000</pubDate>
+<dc:creator>By JOHN ISMAY</dc:creator>
+<category>
+<![CDATA[ Af-Pak ]]>
+</category>
+<category>
+<![CDATA[ Afghanistan ]]>
+</category>
+<category>
+<![CDATA[ At War ]]>
+</category>
+<category>
+<![CDATA[ Veterans ]]>
+</category>
+<category>
+<![CDATA[ Voices ]]>
+</category>
+<category>
+<![CDATA[ Actors and Actresses ]]>
+</category>
+<category>
+<![CDATA[ Bana, Eric ]]>
+</category>
+<category>
+<![CDATA[ Luttrell, Marcus ]]>
+</category>
+<category>
+<![CDATA[ Movies ]]>
+</category>
+<category>
+<![CDATA[ Taliban ]]>
+</category>
+<category>
+<![CDATA[ United States Defense and Military Forces ]]>
+</category>
+<guid isPermaLink="false">
+http://atwar.blogs.nytimes.com/2014/01/24/seeing-my-friend-depicted-in-lone-survivor/
+</guid>
+<description>
+<![CDATA[
+John Ismay, a former Navy officer, meets with the actor Eric Bana, who plays the role of his friend in the movie "Lone Survivor."
+]]>
+</description>
+<wfw:commentRss>
+http://atwar.blogs.nytimes.com/2014/01/24/seeing-my-friend-depicted-in-lone-survivor/feed/
+</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<media:content url="http://graphics8.nytimes.com/images/2014/01/03/multimedia/movies-lonesurviv-010314/movies-lonesurviv-010314-thumbStandard.jpg" medium="image" width="75" height="75"/>
+</item>
+<item>
+<title>Reclaiming Fatherhood After Afghanistan</title>
+<link>
+http://atwar.blogs.nytimes.com/2014/01/03/reclaiming-fatherhood-after-afghanistan/
+</link>
+<comments>
+http://atwar.blogs.nytimes.com/2014/01/03/reclaiming-fatherhood-after-afghanistan/#respond
+</comments>
+<pubDate>Fri, 03 Jan 2014 21:12:19 +0000</pubDate>
+<dc:creator>By ZACHARY BELL</dc:creator>
+<category>
+<![CDATA[ Afghanistan ]]>
+</category>
+<category>
+<![CDATA[ At War ]]>
+</category>
+<category>
+<![CDATA[ Families ]]>
+</category>
+<category>
+<![CDATA[ Helmand Province (Afghanistan) ]]>
+</category>
+<category>
+<![CDATA[ Tennessee ]]>
+</category>
+<category>
+<![CDATA[ United States Defense and Military Forces ]]>
+</category>
+<category>
+<![CDATA[ United States Marine Corps ]]>
+</category>
+<guid isPermaLink="false">
+http://atwar.blogs.nytimes.com/2014/01/03/reclaiming-fatherhood-after-afghanistan/
+</guid>
+<description>
+<![CDATA[
+After two combat tours in Afghanistan, an infantry rifleman readjusts to civilian life -- and the paternal role he left behind.
+]]>
+</description>
+<wfw:commentRss>
+http://atwar.blogs.nytimes.com/2014/01/03/reclaiming-fatherhood-after-afghanistan/feed/
+</wfw:commentRss>
+<slash:comments>0</slash:comments>
+</item>
+<item>
+<title>Deployed Before Christmas</title>
+<link>
+http://atwar.blogs.nytimes.com/2013/12/24/deployed-before-christmas/
+</link>
+<comments>
+http://atwar.blogs.nytimes.com/2013/12/24/deployed-before-christmas/#respond
+</comments>
+<pubDate>Tue, 24 Dec 2013 14:30:19 +0000</pubDate>
+<dc:creator>By SIMONE GORRINDO</dc:creator>
+<category>
+<![CDATA[ Afghanistan ]]>
+</category>
+<category>
+<![CDATA[ At War ]]>
+</category>
+<category>
+<![CDATA[ Families ]]>
+</category>
+<category>
+<![CDATA[ Afghanistan War (2001- ) ]]>
+</category>
+<category>
+<![CDATA[ Christmas ]]>
+</category>
+<category>
+<![CDATA[ Defense and Military Forces ]]>
+</category>
+<category>
+<![CDATA[ Fort Benning (Ga) ]]>
+</category>
+<category>
+<![CDATA[ Georgia ]]>
+</category>
+<category>
+<![CDATA[ Seasons and Months ]]>
+</category>
+<guid isPermaLink="false">
+http://atwar.blogs.nytimes.com/2013/12/24/deployed-before-christmas/
+</guid>
+<description>
+<![CDATA[
+Simone Gorrindo recalls saying goodbye to her husband as he left for Afghanistan last December.
+]]>
+</description>
+<wfw:commentRss>
+http://atwar.blogs.nytimes.com/2013/12/24/deployed-before-christmas/feed/
+</wfw:commentRss>
+<slash:comments>0</slash:comments>
+</item>
+<item>
+<title>Experiencing War Through a Twin</title>
+<link>
+http://atwar.blogs.nytimes.com/2013/12/23/experiencing-war-through-a-twin/
+</link>
+<comments>
+http://atwar.blogs.nytimes.com/2013/12/23/experiencing-war-through-a-twin/#respond
+</comments>
+<pubDate>Mon, 23 Dec 2013 14:00:27 +0000</pubDate>
+<dc:creator>By KYLE WESTON</dc:creator>
+<category>
+<![CDATA[ Afghanistan ]]>
+</category>
+<category>
+<![CDATA[ At War ]]>
+</category>
+<category>
+<![CDATA[ Iraq War: 2003 - 2011 ]]>
+</category>
+<category>
+<![CDATA[ Voices ]]>
+</category>
+<category>
+<![CDATA[ Afghanistan War (2001- ) ]]>
+</category>
+<category>
+<![CDATA[ Iraq ]]>
+</category>
+<category>
+<![CDATA[ Iraq War (2003-11) ]]>
+</category>
+<category>
+<![CDATA[ Marlantes, Karl ]]>
+</category>
+<category>
+<![CDATA[ Nicholson, Larry ]]>
+</category>
+<category>
+<![CDATA[ Salt Lake City (Utah) ]]>
+</category>
+<category>
+<![CDATA[ Skiing ]]>
+</category>
+<category>
+<![CDATA[ State Department ]]>
+</category>
+<category>
+<![CDATA[ United States Defense and Military Forces ]]>
+</category>
+<category>
+<![CDATA[ United States Marine Corps ]]>
+</category>
+<category>
+<![CDATA[ Utah ]]>
+</category>
+<guid isPermaLink="false">
+http://atwar.blogs.nytimes.com/2013/12/23/experiencing-war-through-a-twin/
+</guid>
+<description>
+<![CDATA[
+A man confronts what it means that while his brother dodged rocket-propelled grenades, he was enjoying himself skiing.
+]]>
+</description>
+<wfw:commentRss>
+http://atwar.blogs.nytimes.com/2013/12/23/experiencing-war-through-a-twin/feed/
+</wfw:commentRss>
+<slash:comments>0</slash:comments>
+</item>
+<item>
+<title>
+A Plan for a More Powerful Military That Costs Less
+</title>
+<link>
+http://atwar.blogs.nytimes.com/2013/12/10/a-plan-for-a-more-powerful-military-that-costs-less/
+</link>
+<comments>
+http://atwar.blogs.nytimes.com/2013/12/10/a-plan-for-a-more-powerful-military-that-costs-less/#respond
+</comments>
+<pubDate>Tue, 10 Dec 2013 20:08:29 +0000</pubDate>
+<dc:creator>By DANIEL DAVIS</dc:creator>
+<category>
+<![CDATA[ A Soldier Writes ]]>
+</category>
+<category>
+<![CDATA[ At War ]]>
+</category>
+<category>
+<![CDATA[ Budget ]]>
+</category>
+<category>
+<![CDATA[ Afghanistan ]]>
+</category>
+<category>
+<![CDATA[ Davis, Daniel L ]]>
+</category>
+<category>
+<![CDATA[ Defense Department ]]>
+</category>
+<category>
+<![CDATA[
+Far East, South and Southeast Asia and Pacific Areas
+]]>
+</category>
+<category>
+<![CDATA[ Federal Budget (US) ]]>
+</category>
+<category>
+<![CDATA[ Hagel, Chuck ]]>
+</category>
+<category>
+<![CDATA[ Odierno, Raymond T ]]>
+</category>
+<category>
+<![CDATA[ United States Army ]]>
+</category>
+<category>
+<![CDATA[ United States Defense and Military Forces ]]>
+</category>
+<guid isPermaLink="false">
+http://atwar.blogs.nytimes.com/2013/12/10/a-plan-for-a-more-powerful-military-that-costs-less/
+</guid>
+<description>
+<![CDATA[
+The Macgregor Transformation Model proposes to decrease Defense Department's spending without leaving the armed forces less-than-ready for combat — a problem with other downsizing plans.
+]]>
+</description>
+<wfw:commentRss>
+http://atwar.blogs.nytimes.com/2013/12/10/a-plan-for-a-more-powerful-military-that-costs-less/feed/
+</wfw:commentRss>
+<slash:comments>0</slash:comments>
+</item>
+<item>
+<title>The Magic of West Point</title>
+<link>
+http://atwar.blogs.nytimes.com/2013/12/04/the-magic-of-west-point/
+</link>
+<comments>
+http://atwar.blogs.nytimes.com/2013/12/04/the-magic-of-west-point/#respond
+</comments>
+<pubDate>Wed, 04 Dec 2013 17:27:36 +0000</pubDate>
+<dc:creator>By TERRY BABCOCK-LUMISH</dc:creator>
+<category>
+<![CDATA[ At War ]]>
+</category>
+<category>
+<![CDATA[ Military academies ]]>
+</category>
+<category>
+<![CDATA[ Military traditions ]]>
+</category>
+<category>
+<![CDATA[ Colleges and Universities ]]>
+</category>
+<category>
+<![CDATA[ Dempsey, Martin E ]]>
+</category>
+<category>
+<![CDATA[ Rowling, J K ]]>
+</category>
+<category>
+<![CDATA[ United States ]]>
+</category>
+<category>
+<![CDATA[ United States Defense and Military Forces ]]>
+</category>
+<category>
+<![CDATA[ United States Military Academy ]]>
+</category>
+<guid isPermaLink="false">
+http://atwar.blogs.nytimes.com/2013/12/04/the-magic-of-west-point/
+</guid>
+<description>
+<![CDATA[
+Terry Babcock-Lumish, an economics professor at the United States Military Academy, on teaching at West Point.
+]]>
+</description>
+<wfw:commentRss>
+http://atwar.blogs.nytimes.com/2013/12/04/the-magic-of-west-point/feed/
+</wfw:commentRss>
+<slash:comments>0</slash:comments>
+</item>
+<item>
+<title>Understanding War Through Hanukkah</title>
+<link>
+http://atwar.blogs.nytimes.com/2013/11/27/understanding-war-through-hanukkah/
+</link>
+<comments>
+http://atwar.blogs.nytimes.com/2013/11/27/understanding-war-through-hanukkah/#respond
+</comments>
+<pubDate>Wed, 27 Nov 2013 14:05:06 +0000</pubDate>
+<dc:creator>By DAVID FROMMER</dc:creator>
+<category>
+<![CDATA[ A Soldier Writes ]]>
+</category>
+<category>
+<![CDATA[ Afghanistan ]]>
+</category>
+<category>
+<![CDATA[ Iraq War: 2003 - 2011 ]]>
+</category>
+<category>
+<![CDATA[ religion ]]>
+</category>
+<category>
+<![CDATA[ Chaplains ]]>
+</category>
+<category>
+<![CDATA[ Israel ]]>
+</category>
+<category>
+<![CDATA[ Jews and Judaism ]]>
+</category>
+<category>
+<![CDATA[ Kuwait ]]>
+</category>
+<category>
+<![CDATA[ United States Army ]]>
+</category>
+<category>
+<![CDATA[ United States Defense and Military Forces ]]>
+</category>
+<guid isPermaLink="false">
+http://atwar.blogs.nytimes.com/2013/11/27/understanding-war-through-hanukkah/
+</guid>
+<description>
+<![CDATA[
+David Frommer, a chaplain who served in the United States Army and Israel Defense Forces, shares how his understanding of Hanukkah has evolved since his childhood.
+]]>
+</description>
+<wfw:commentRss>
+http://atwar.blogs.nytimes.com/2013/11/27/understanding-war-through-hanukkah/feed/
+</wfw:commentRss>
+<slash:comments>0</slash:comments>
+</item>
+<item>
+<title>The Man Behind the MRAP Moves On</title>
+<link>
+http://atwar.blogs.nytimes.com/2013/11/26/the-man-behind-the-mrap-moves-on/
+</link>
+<comments>
+http://atwar.blogs.nytimes.com/2013/11/26/the-man-behind-the-mrap-moves-on/#respond
+</comments>
+<pubDate>Tue, 26 Nov 2013 15:53:38 +0000</pubDate>
+<dc:creator>By THOM SHANKER</dc:creator>
+<category>
+<![CDATA[ Af-Pak ]]>
+</category>
+<category>
+<![CDATA[ Afghanistan ]]>
+</category>
+<category>
+<![CDATA[ At War ]]>
+</category>
+<category>
+<![CDATA[ Budget ]]>
+</category>
+<category>
+<![CDATA[ Economy ]]>
+</category>
+<category>
+<![CDATA[ Improvised Explosive Devices ]]>
+</category>
+<category>
+<![CDATA[ Iraq War: 2003 - 2011 ]]>
+</category>
+<category>
+<![CDATA[ Traumatic Brain Injury ]]>
+</category>
+<category>
+<![CDATA[ Afghanistan War (2001- ) ]]>
+</category>
+<category>
+<![CDATA[ Carter, Ashton B ]]>
+</category>
+<category>
+<![CDATA[ Defense Department ]]>
+</category>
+<category>
+<![CDATA[ Gates, Robert M ]]>
+</category>
+<category>
+<![CDATA[ Iraq ]]>
+</category>
+<category>
+<![CDATA[ Iraq War (2003-11) ]]>
+</category>
+<category>
+<![CDATA[ military vehicles ]]>
+</category>
+<category>
+<![CDATA[ Rumsfeld, Donald H ]]>
+</category>
+<category>
+<![CDATA[ Terrorism ]]>
+</category>
+<category>
+<![CDATA[ United States Defense and Military Forces ]]>
+</category>
+<guid isPermaLink="false">
+http://atwar.blogs.nytimes.com/2013/11/26/the-man-behind-the-mrap-moves-on/
+</guid>
+<description>
+<![CDATA[
+Ashton B. Carter, the departing deputy secretary of defense, played a central role in the initiative to rush MRAPs to Afghanistan for the troop surge.
+]]>
+</description>
+<wfw:commentRss>
+http://atwar.blogs.nytimes.com/2013/11/26/the-man-behind-the-mrap-moves-on/feed/
+</wfw:commentRss>
+<slash:comments>0</slash:comments>
+</item>
+<item>
+<title>A Military Wife No More</title>
+<link>
+http://atwar.blogs.nytimes.com/2013/11/22/a-military-wife-no-more/
+</link>
+<comments>
+http://atwar.blogs.nytimes.com/2013/11/22/a-military-wife-no-more/#respond
+</comments>
+<pubDate>Fri, 22 Nov 2013 17:09:56 +0000</pubDate>
+<dc:creator>By HEATHER SWEENEY</dc:creator>
+<category>
+<![CDATA[ At War ]]>
+</category>
+<category>
+<![CDATA[ Families ]]>
+</category>
+<category>
+<![CDATA[ Voices ]]>
+</category>
+<category>
+<![CDATA[ Women ]]>
+</category>
+<category>
+<![CDATA[ Divorce, Separations and Annulments ]]>
+</category>
+<category>
+<![CDATA[ Marriages ]]>
+</category>
+<category>
+<![CDATA[ United States Defense and Military Forces ]]>
+</category>
+<guid isPermaLink="false">
+http://atwar.blogs.nytimes.com/2013/11/22/a-military-wife-no-more/
+</guid>
+<description>
+<![CDATA[
+A military marriage comes to an end, and with it a way of life.
+]]>
+</description>
+<wfw:commentRss>
+http://atwar.blogs.nytimes.com/2013/11/22/a-military-wife-no-more/feed/
+</wfw:commentRss>
+<slash:comments>0</slash:comments>
+</item>
+</channel>
+</rss>

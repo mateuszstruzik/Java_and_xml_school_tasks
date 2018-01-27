@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chess>
+	<White_king>G2</White_king>
+	<White_queen>A3</White_queen>
+	<White_rooks>B5</White_rooks>
+	<Black_kights>C4</Black_kights>
+	<Black_king>C6</Black_king>
+	<Black_queen>D3</Black_queen>
+</chess>

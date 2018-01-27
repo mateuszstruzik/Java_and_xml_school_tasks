@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<note>
+    <PERSON>
+        <NAME>Jan</NAME>
+        <SURNAME>Nowak</SURNAME>
+        <HOMEADDR>Wroclaw</HOMEADDR>
+        <PHONE>111111111</PHONE>
+        <JOB>Tester</JOB>
+    </PERSON>
+    <PERSON>
+        <NAME>Roman</NAME>
+        <SURNAME>Kowalski</SURNAME>
+        <HOMEADDR>Warszawa</HOMEADDR>
+        <PHONE>222222222</PHONE>
+        <JOB>Developer</JOB>
+    </PERSON>
+</note>

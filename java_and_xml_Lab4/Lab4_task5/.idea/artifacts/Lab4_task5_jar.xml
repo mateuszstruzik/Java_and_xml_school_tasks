@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Lab4_task5:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Lab4_task5_jar</output-path>
+    <root id="archive" name="Lab4_task5.jar">
+      <element id="module-output" name="Lab4_task5" />
+      <element id="file-copy" path="$PROJECT_DIR$/Lab4_task5.dtd" />
+      <element id="file-copy" path="$PROJECT_DIR$/Lab4_task5.xml" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<SEMESTER name="5"
+xmlns="https://www.w3schools.com"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="Lab3_task5.xsd">
+
+	<SUBJECT>Softcomputing</SUBJECT>
+	<SUBJECT>Inforamtion systems analysis</SUBJECT>
+	<SUBJECT>App programing java and xml</SUBJECT>
+	<SUBJECT>Source system and networks</SUBJECT>
+	<SUBJECT>Advanced databases</SUBJECT>
+	<SUBJECT>Multimedia and comp visual</SUBJECT>
+
+	
+</SEMESTER>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PERSON
+xmlns="https://www.w3schools.com"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="Lab3_task1.xsd">>
+	<NAME>Mateusz</NAME>
+	<SURNAME>Struzik</SURNAME>
+	<HOMEADDR>Kadlub 74</HOMEADDR>
+	<PHONE>721340370</PHONE>
+	<JOB>Tester</JOB>
+</PERSON>

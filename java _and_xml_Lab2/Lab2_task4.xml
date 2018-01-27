@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Lab2_task4.xsl"?>
+
+<root>
+	<MAIL_SYSTEM>
+		<NAME>Mateusz</NAME>
+		<TITLE>Security, Paper</TITLE>
+		<ID>1111111</ID>
+		<LINK>http://www.link.pl</LINK>
+	</MAIL_SYSTEM>
+</root>

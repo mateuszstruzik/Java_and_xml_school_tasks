@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE company SYSTEM "Lab1_task4.dtd">
+<company>
+	<POSITION NAME="programmer">
+		<index id="N1">
+			<NAME>John</NAME>
+			<SURNAME>SMITH</SURNAME>
+			<PHONE>1111111</PHONE>
+			<HOMEADDR>LONDON</HOMEADDR>
+			<PROGRAMING_LANGUAGE>
+			<KIND lvl="advance">cpp</KIND>
+			<KIND lvl="basic">java</KIND>
+			</PROGRAMING_LANGUAGE>
+		</index>
+		<index id="N2">
+			<NAME>Alice</NAME>
+			<SECONDNAME>Jane</SECONDNAME>
+			<SURNAME>Brown</SURNAME>
+			<FAMILYNAME>Isaac</FAMILYNAME>
+			<PHONE>222222</PHONE>
+			<HOMEADDR>MANCHESTER</HOMEADDR>
+			<PROGRAMING_LANGUAGE>
+				<KIND lvl="advance">c#</KIND>
+				<KIND lvl="advance">cpp</KIND>
+				<KIND lvl="advance">PostgreSQL DataBases</KIND>
+			</PROGRAMING_LANGUAGE>
+			<FOREING_LANGUAGE>German</FOREING_LANGUAGE>
+		</index>
+		<index id="N3">
+			<NAME>Allan</NAME>
+			<SECONDNAME>Josh</SECONDNAME>
+			<SURNAME>Thomkins</SURNAME>
+			<PHONE>333333</PHONE>
+			<PHONE>123456789</PHONE>
+			<HOMEADDR>Leicester</HOMEADDR>
+			<PROGRAMING_LANGUAGE>
+				<KIND lvl="advance">c#</KIND>
+				<KIND lvl="advance">cpp</KIND>
+				<KIND lvl="advance">java</KIND>
+				<KIND lvl="basic">python</KIND>
+				<KIND lvl="advance">PostgreSQL DataBases</KIND>
+			</PROGRAMING_LANGUAGE>
+			<FOREING_LANGUAGE>German</FOREING_LANGUAGE>
+			<FOREING_LANGUAGE>Spanish</FOREING_LANGUAGE>
+		</index>
+	</POSITION>
+	<POSITION NAME="tester">
+		<index id="N4">
+			<NAME>Mick</NAME>
+			<SURNAME>Nowitzki</SURNAME>
+			<PHONE>11112232</PHONE>
+			<HOMEADDR>LONDON</HOMEADDR>
+			<AUTOMATION>yes</AUTOMATION>
+		</index>
+		<index id="N5">
+			<NAME>Jennis</NAME>
+			<SURNAME>Gray</SURNAME>
+			<FAMILYNAME>New</FAMILYNAME>
+			<PHONE>2221232</PHONE>
+			<PHONE>123123</PHONE>
+			<PHONE>1231231</PHONE>
+			<HOMEADDR>Newton</HOMEADDR>
+			<AUTOMATION>No</AUTOMATION>
+			<FOREING_LANGUAGE>German</FOREING_LANGUAGE>
+		</index>
+		<index id="N6">
+			<NAME>Al</NAME>
+			<SECONDNAME>John</SECONDNAME>
+			<SURNAME>Thom</SURNAME>
+			<PHONE>333333</PHONE>
+			<PHONE>123456789</PHONE>
+			<HOMEADDR>Leicester</HOMEADDR>
+			<AUTOMATION>NO</AUTOMATION>
+			<FOREING_LANGUAGE>German</FOREING_LANGUAGE>
+			<FOREING_LANGUAGE>Spanish</FOREING_LANGUAGE>
+		</index>
+	</POSITION>
+	<POSITION NAME="manager">
+		<index id="N7">
+			<NAME>Mick</NAME>
+			<SURNAME>Art</SURNAME>
+			<PHONE>1111123232</PHONE>
+			<HOMEADDR>LONDON</HOMEADDR>
+		</index>
+		<index id="N8">
+			<NAME>Jennis</NAME>
+			<SURNAME>Gin</SURNAME>
+			<PHONE>2221232</PHONE>
+			<HOMEADDR>Newton</HOMEADDR>
+			<FOREING_LANGUAGE>German</FOREING_LANGUAGE>
+		</index>
+	</POSITION>
+</company>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ex1.xsl"?>
+<details>
+	<name>Adam</name>
+	<surname>Adamowicz</surname>
+	<homeAddress>
+		<city>Wroclaw</city>
+		<street>Sklodowska</street>
+		<postalCode>12345</postalCode>
+	</homeAddress>
+	<local>123</local>	
+	<phone>12345678</phone>
+	<mobile>333444555</mobile>
+	<job>Architect</job>
+</details>	
+	
+	
+	
+	

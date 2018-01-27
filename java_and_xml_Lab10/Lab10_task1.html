@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<style>
+
+ 
+#animate {
+  width: 5000px;
+  height: 5000px;
+  position: absolute;
+  top='5px';
+  left='1px';
+
+}
+#back {
+	position:relative;
+    left:1000px;
+    top:5px;
+	visibility: hidden;
+ }
+body {
+    background-image: url("starfield.gif");
+}
+</style>
+<body>
+
+<p>
+<button onclick="Move()">Make move</button>
+
+</p> 
+	<div id ="animate">
+		<img src="rocketship.gif" alt="Spaceship">
+	</div>
+	<div id ="back">
+		<img src="irocketship.gif" alt="Spaceship">
+	</div>
+
+<script>
+function Move() {
+  var elem = document.getElementById("animate");   
+  var pos = 10;
+  var id = setInterval(frame, 10);
+  function frame() {
+    if (pos == 1000) {
+		elem.style.visibility = 'hidden';
+		returnMove();
+		clearInterval(id);
+	
+    } else {
+      pos++; 
+      elem.style.left = pos + 10 +'px'; 
+    }
+  }
+}
+function returnMove(){
+	var elem = document.getElementById("back");
+	var elem2 = document.getElementById("front")
+	elem.style.visibility = 'visible';
+	var pos = 1000;
+    var id = setInterval(frame, 10);
+    function frame() {
+      if (pos == 10) {
+			elem.style.visibility = 'hidden';
+			elem2.style.visibility = 'visible';
+			myMove();
+	     clearInterval(id);
+	} else {
+       pos--; 
+        elem.style.left = pos -10 + 'px'; 
+    }
+  }
+}
+</script>
+
+</body>
+</html>

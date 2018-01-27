@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<songs>
+	<song>
+		<title>Moj jest ten kawalek podlogi</title>
+		<author>Mr. Zoob</author>
+		<year>1996</year>
+	</song>
+	<song>
+		<title>Pila tango</title>
+		<author>Strachy na Lachy</author>
+		<year>2005</year>
+	</song>
+	<song>
+		<title>Baranek</title>
+		<author>Kult</author>
+		<year>1961</year>
+	</song>
+	<song>
+		<title>Highway to Hell</title>
+		<author>AC/DC</author>
+		<year>1979</year>
+	</song>
+
+
+
+
+
+</songs>

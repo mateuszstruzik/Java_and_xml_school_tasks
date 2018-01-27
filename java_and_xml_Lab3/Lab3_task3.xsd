@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+targetNamespace="https://www.w3schools.com"
+xmlns="https://www.w3schools.com"
+elementFormDefault="qualified">
+
+<xs:complexType name="mobiledeviceType">
+	<xs:complexContent>
+		<xs:extension base="physicalelementType">
+		<xs:sequence>
+			<xs:element name="access" minOccurs="0" maxOccurs="unbounded"/> 
+			<xs:element name="interface"/>
+			<xs:element name="os" minOccurs="0"/>
+			<xs:element name="sw" minOccurs="0"/>
+		</xs:sequence>
+		</xs:extension>
+	
+	</xs:complexContent>
+	
+
+<xs:attribute name="id" use="required"/>
+</xs:complexType>
+
+<xs:complexType name ="accesType">
+	<xs:attribute name="id" use="required"/>
+	<xs:attribute name="type" use="required"/>
+	<xs:attribute name="value" minOccurs="0"  maxOccurs="unbounded"/>
+</xs:complexType>
+
+<xs:complexType name="L1interface">
+	<xs:attribute name="id" use="required"/>
+	<xs:attribute name="number" minOccurs="0"  maxOccurs="unbounded"/>
+	<xs:attribute name="technology" minOccurs="0"  maxOccurs="unbounded"/>
+	<xs:attribute name="connector" minOccurs="0"  maxOccurs="unbounded"/>
+	<xs:attribute name="protocol" minOccurs="0"  maxOccurs="unbounded"/>
+</xs:complexType>
+
+<xs:complexType name="osReferenceType">
+	<xs:sequence>
+		
+		<xs:element name="config" minOccurs="0" maxOccurs="unbounded"/>
+	</xs:sequence>
+	<xs:attribute name="idRef" use="required"/>
+	<xs:attribute name="running" minOccurs="0"  maxOccurs="unbounded"/>
+</xs:complexType>
+<xs:complexType name="swReferenceType">
+	<xs:sequence>
+		<xs:element name="config" minOccurs="0" maxOccurs="unbounded"/>
+	</xs:sequence>
+	<xs:attribute name="idRef" use="required"/>
+	<xs:attribute name="running" minOccurs="0"  maxOccurs="unbounded"/>
+</xs:complexType>
+<xs:complexType name="configurationType">
+			<xs:attribute name="location" minOccurs="0"  maxOccurs="unbounded"/>
+</xs:complexType>
+
+</xs:schema>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<employees>
+    <employee>
+        <name>John</name>
+        <dayOfBirth>1962-11-24</dayOfBirth>
+        <dept>accounting</dept>
+        <jobTitle>senior accountant</jobTitle>
+    </employee>
+    <employee>
+        <name>Tina</name>
+        <dayOfBirth>1962-09-26</dayOfBirth>
+        <dept>administration</dept>
+        <jobTitle>manager</jobTitle>
+    </employee>
+    <employee>
+        <name>Karen</name>
+        <dayOfBirth>1972-01-10</dayOfBirth>
+        <dept> marketing</dept>
+        <jobTitle>graphic designer</jobTitle>
+    </employee>
+    <employee>
+        <name>Michael</name>
+        <dayOfBirth>1978-02-11</dayOfBirth>
+        <dept>research</dept>
+        <jobTitle>programmer</jobTitle>
+    </employee>
+    <employee>
+        <name>Sandra</name>
+        <dayOfBirth>1976-10-26</dayOfBirth>
+        <dept>marketing</dept>
+        <jobTitle>account manager</jobTitle>
+    </employee>
+</employees>

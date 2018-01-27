@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ex3.xsl"?>
+<company name="Future vision arch" yearOfFundation="1999">
+	<department name="Research">
+		<manager>
+			<name>Adam</name>
+			<surname>Adamowicz</surname>
+			<address>
+				<city>Wroclaw</city>
+				<street>Sklodowska</street>
+				<postalCode>12345</postalCode>
+				<local>123</local>
+			</address>
+			<phone>12345678</phone>
+			<mobile>333444555</mobile>
+			<numberOfEmployees>14</numberOfEmployees>
+		</manager>
+		<employee position="abcd">
+			<name>Adam</name>
+			<surname>Adamowicz</surname>
+			<address>
+				<city>Wroclaw</city>
+				<street>Sklodowska</street>
+				<postalCode>12345</postalCode>
+				<local>123</local>
+			</address>
+			<phone>12345678</phone>
+			<mobile>333444555</mobile>
+			<job>Architect</job>
+			<manager>Adamowicz</manager>
+		</employee>	
+	</department>
+	<department name="IT"><manager>
+			<name>Adam</name>
+			<surname>Wesolowski</surname>
+			<address>
+				<city>Wroclaw</city>
+				<street>Sklodowska</street>
+				<postalCode>12345</postalCode>
+				<local>123</local>
+			</address>
+			<phone>12345678</phone>
+			<mobile>333444555</mobile>
+			<numberOfEmployees>14</numberOfEmployees>
+		</manager>
+		<employee position="analyst">
+			<name>Adam</name>
+			<surname>Adamowicz</surname>
+			<address>
+				<city>Wroclaw</city>
+				<street>Sklodowska</street>
+				<postalCode>12345</postalCode>
+				<local>123</local>
+			</address>
+			<phone>12345678</phone>
+			<mobile>333444555</mobile>
+			<job>Architect</job>
+		</employee>	
+	</department>
+	<department name="FinanseAndAccounting">
+		<manager>
+			<name>Adam</name>
+			<surname>Adamowicz</surname>
+			<address>
+				<city>Wroclaw</city>
+				<street>Sklodowska</street>
+				<local>123</local>
+			</address>
+			<phone>12345678</phone>
+			<mobile>333444555</mobile>
+			<numberOfEmployees>14</numberOfEmployees>
+		</manager>
+		<employee position="accountant">
+			<name>Elżbieta</name>
+			<surname>Surka</surname>
+			<address>
+				<city>Wroclaw</city>
+				<street>Legnicka</street>
+				<postalCode>12345</postalCode>
+				<local>123</local>
+			</address>
+			<phone>12345678</phone>
+			<mobile>333444555</mobile>
+			<job>Accountant</job>
+		</employee>	
+	</department>
+</company>

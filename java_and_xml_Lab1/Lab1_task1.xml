@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<note
+xmlns="https://www.w3schools.com"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="https://www.w3schools.com java_and_xml_Lab3">
+<PERSON>
+	<NAME>Mateusz</NAME>
+	<SURNAME>Struzik</SURNAME>
+	<HOMEADDR>Kadlub 74</HOMEADDR>
+	<PHONE>721340370</PHONE>
+	<JOB>Tester</JOB>
+</PERSON>
+<PERSON>
+	<NAME>Mateusz</NAME>
+	<SURNAME>Struzik</SURNAME>
+	<HOMEADDR>Kadlub 74</HOMEADDR>
+	<PHONE>721340370</PHONE>
+	<JOB>Tester</JOB>
+</PERSON>
+</note>

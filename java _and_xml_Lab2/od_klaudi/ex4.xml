@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ex4.xslt"?>
+<mail>
+	<name>Adam</name>
+	<surname>Adamowicz</surname>
+	<title>World</title>	
+	<IDnumber>12345678</IDnumber>
+	<link>https://www.checkitout.pl</link>
+</mail>

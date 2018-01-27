@@ -1,0 +1,18 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name = "chess">
+	<xs:complexType>
+		<xs:sequence>
+			<xs:element name="White_king" type="xs:string"/>
+			<xs:element name="White_queen" type="xs:string"/>
+			<xs:element name="White_rooks" type="xs:string"/>
+			<xs:element name="Black_kights" type="xs:string"/>
+			<xs:element name="Black_king" type="xs:string"/>
+			<xs:element name="Black_queen" type="xs:string"/>
+		</xs:sequence>
+	
+	</xs:complexType>
+
+</xs:element>
+
+
+</xs:schema>

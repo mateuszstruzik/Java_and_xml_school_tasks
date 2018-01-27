@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Lab2_task1.xsl"?>
+<PERSON>
+	<NAME>Mateusz</NAME>
+	<SURNAME>Struzik</SURNAME>
+	<HOMEADDR>Kadlub 74</HOMEADDR>
+	<PHONE>721340370</PHONE>
+	<JOB>Tester</JOB>
+</PERSON>

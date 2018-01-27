@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+targetNamespace="https://www.w3schools.com"
+xmlns="https://www.w3schools.com"
+elementFormDefault="qualified">
+
+ <xs:simpleType name="subjects" final="restriction" >
+    <xs:restriction base="xs:string">
+        <xs:enumeration value="Softcomputing" />
+        <xs:enumeration value="Inforamtion systems analysis" />
+        <xs:enumeration value="App programing java and xml" />
+		<xs:enumeration value="Source system and networks" />
+		<xs:enumeration value="Advanced databases" />
+		<xs:enumeration value="Multimedia and comp visual" />
+    </xs:restriction>
+</xs:simpleType>
+
+<xs:element name="SEMESTER">
+	<xs:complexType>
+		<xs:sequence>
+			<xs:element name="SUBJECT" type="subjects"/>
+			<xs:element name="SUBJECT" type="subjects"/>
+			<xs:element name="SUBJECT" type="subjects"/>
+			<xs:element name="SUBJECT" type="subjects"/>
+			<xs:element name="SUBJECT" type="subjects"/>
+			<xs:element name="SUBJECT" type="subjects"/>
+		</xs:sequence>
+		<xs:attribute name="name" type="xs:string"/>
+	</xs:complexType>
+</xs:element>
+	
+</xs:schema>

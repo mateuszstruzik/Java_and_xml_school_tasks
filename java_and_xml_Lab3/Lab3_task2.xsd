@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+targetNamespace="https://www.w3schools.com"
+xmlns="https://www.w3schools.com"
+elementFormDefault="qualified">
+
+<xs:element name="UNIVERSITY">
+	<xs:complexType mixed="true">
+	
+		<xs:sequence>
+			<xs:element name="YEAR_OF_ESTABLISHMENT" type="xs:string"/>
+			<xs:element name="FACULTIES_NUMBER" type="xs:string"/>
+			<xs:element name="MAJORS" type="xs:string"/>
+			<xs:element name="SPECIALISATIONS" type="xs:string"/>
+			<xs:element name="DESCRIPTION" type="xs:string"/>
+			<xs:element name="FACULTIES">
+				<xs:complexType>
+					<xs:sequence maxOccurs="unbounded">
+						<xs:element name="FACULTY">
+							<xs:complexType>
+								
+								<xs:sequence maxOccurs="unbounded">
+									<xs:element name="MAJOR" >
+										<xs:complexType mixed="true">
+										
+											<xs:sequence>
+											<xs:element name="DESCRIPTION" type="xs:string"/>
+											</xs:sequence>
+											<xs:attribute name="name" type="xs:string"/>
+											
+										</xs:complexType>
+									</xs:element>
+								</xs:sequence>
+								<xs:attribute name="name" type="xs:string"/>
+							</xs:complexType>
+						</xs:element>
+					</xs:sequence>
+				</xs:complexType>
+			</xs:element>
+		</xs:sequence>
+		<xs:attribute name="name" type="xs:string"/>
+	</xs:complexType>
+</xs:element>
+</xs:schema>
+

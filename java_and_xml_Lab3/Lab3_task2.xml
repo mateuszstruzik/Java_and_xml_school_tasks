@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<UNIVERSITY name="Wroclaw University of Science and Technology"
+xmlns="https://www.w3schools.com"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="Lab3_task2.xsd">
+	
+	<YEAR_OF_ESTABLISHMENT>1910</YEAR_OF_ESTABLISHMENT>
+	<FACULTIES_NUMBER>16</FACULTIES_NUMBER>
+	<MAJORS>51</MAJORS>
+	<SPECIALISATIONS>130</SPECIALISATIONS>
+	<DESCRIPTION>
+			Since its very beginnings, Wrocław University of Science and Technology has aimed to deliver high quality education.
+			It has a multidisciplinary character, going beyond the traditionally understood fields of engineering and interweaving 
+			technical, mathematical, natural and economic sciences, and humanities. 
+			Knowledge acquired during studies at the University is intended to bear fruit not only as success in the graduate's 
+			future professional life but also as a means to shape them into an individual who is resourceful, creative and open to new challenges.
+	</DESCRIPTION>
+	
+	<FACULTIES>
+	<FACULTY name = "Faculty of Architecture">
+	<MAJOR name = "architecture">
+	<DESCRIPTION>
+			Perspektywy zatrudnienia absolwenta kierunku Architektura, posiadającego tytuł inżyniera architekta są szerokie i obejmują m.in. stanowiska:
+			asystent projektanta w pracowni architektonicznej lub urbanistycznej;
+			pracownik pomocniczy w biurze inwestycyjnym / deweloperskim;
+			inżynier budowy w wykonawstwie i nadzorze budowlanym;
+			urzędnik w jednostkach administracji publicznej;
+			pracownik studia designu.
+	</DESCRIPTION>
+	</MAJOR>
+	<MAJOR name = "land management">
+	<DESCRIPTION>
+			Kierunek Gospodarka Przestrzenna zorientowany jest na kształcenie nowoczesnego specjalisty w dziedzinie planowania, mającego szerokie
+			interdyscyplinarne podstawy i rozumiejącego gospodarowanie przestrzenią jako projekcję przestrzenną systemu cywilizacyjnego. 
+			Metodologia kształcenia kładzie nacisk na rozumienie mechanizmów i procesów, nie tylko na kształtowanie form, które powinny wynikać z  tego zrozumienia.
+	</DESCRIPTION>
+	</MAJOR>
+	</FACULTY>
+	
+	<FACULTY name = "Faculty of Civil Engineering">
+	<MAJOR name = "Builder's engineering">
+	<DESCRIPTION>
+			Specjalność dyplomowania Inżynieria Budowlana pozwala uzyskać pogłębioną wiedzę i kompetencje z zakresu projektowania i wykonawstwa obiektów
+			budownictwa przemysłowego, konstrukcji betonowych i metalowych oraz podstaw projektowania architektonicznego.
+	</DESCRIPTION>
+	</MAJOR>
+	<MAJOR name = "Geo and Hydraulic engineering">
+	<DESCRIPTION>
+			Specjalność dyplomowania Geotechnika i Hydrotechnika umożliwia uzyskanie pogłębionej wiedzy i umiejętności z zakresu geoinżynierii i hydrotechniki,
+			projektowania i wykonawstwa prostych budowli i obiektów inżynierskich takich jak: wykopy, nasypy budowlane oraz związane z infrastrukturą transportową,
+			budowle podziemne i budowle hydrotechniczne.
+	</DESCRIPTION>
+	</MAJOR>
+	<MAJOR name = "Civil engineering">
+	<DESCRIPTION>
+			Specyfiką specjalności dyplomowania Inżynieria Lądowa jest rozwinięcie ­­u studentów wiedzy i kompetencji z zakresu budowy, 
+			wykonawstwa i utrzymania dróg, lotnisk, mostów, kolei oraz obiektów inżynierii miejskiej.
+	</DESCRIPTION>
+	</MAJOR>
+	</FACULTY>
+	
+	<FACULTY name = "Faculty of Chemistry">
+	<MAJOR name = "Biotechnology">
+	<DESCRIPTION>
+			Biotechnologia jest przyszłościowym kierunkiem, wiąże się to z dynamicznym rozwojem tej dziedziny nauki. Celem kształcenia na kierunku biotechnologia 
+			jest edukacja studentów w zakresie fizyki, chemii, informatyki oraz zdobycie gruntownej wiedzy biologicznej. 
+			Absolwent kierunku biotechnologia jest dobrze przygotowany do podjęcia pracy w nowoczesnych laboratoriach biologicznych, medycznych, biochemicznych,
+			związanych z ochroną środowiska oraz laboratoriach badawczych, kontrolnych i diagnostycznych. Kierunek Biotechnologia w Politechnice Wrocławskiej 
+			kształci w zakresie inżynierii bioprocesowej, ochrony środowiska, biokatalizy, chemii i biochemii ekologicznej oraz projektowania nowych leków.
+	</DESCRIPTION>
+	</MAJOR>
+	<MAJOR name = "Chemistry">
+	<DESCRIPTION>
+			Współczesna chemia jest przede wszystkim nauką eksperymentalną, której podstawę stanowią reakcje chemiczne prowadzone w kontrolowanych warunkach 
+			laboratoryjnych. Ważnym zagadnieniem chemii jest badanie substancji i ich przemian jakościowych. Współczesna chemia stara się wyjaśniać mechanizm 
+			tych przemian na poziomie cząsteczkowym, szuka też zależności między własnościami substancji a ich składem i strukturą atomową. 
+			Kierunek chemia Politechniki Wrocławskiej specjalizuje studentów w zagadnieniach analityki chemicznej, chemii metaloorganicznej i chemii medycznej.
+	</DESCRIPTION>
+	</MAJOR>
+	<MAJOR name = "Chemical Technology">
+	<DESCRIPTION>
+			To ogół metod służących do wytwarzania użytecznych związków chemicznych na skalę przemysłową za pomocą procesów chemicznych. 
+			Technologia chemiczna obejmuje wyodrębnianie z surowców pożądanych składników i dalsze ich przetwarzanie. Technologia chemiczna organiczna zajmuje się
+			wytwarzaniem produktów związanych z codziennością: tworzyw sztucznych, kosmetyków, barwników, detergentów, przetwarza surowce kopalne oraz 
+			surowce naturalne (odnawialne). Również ważnym aspektem prowadzonych badań jest opracowanie podstaw fizykochemicznych
+			i technologicznych metod produkcji nawozów sztucznych.
+	</DESCRIPTION>
+	</MAJOR>
+	<MAJOR name = "Chemical and Process Engineering">
+	<DESCRIPTION>
+			Inżynieria chemiczna zajmuje się projektowaniem procesów i ciągów technologicznych oraz sterowaniem nimi. Jest nauką uniwersalną o procesach występujących
+			nie tylko w przemyśle chemicznym, ale we wszystkich przemysłach przetwórczych. Obecnie inżynieria procesowa wkracza w dziedzinę ochrony środowiska
+			w części dotyczącej teorii procesów, a także projektowania i wyboru aparatury stosowanej w ochronie wód, powietrza i gleby. Podstawami teoretycznymi
+			inżynierii chemicznej i procesowej są zjawiska transportu pędu, ciepła i masy oraz przepływy wielofazowe.
+	</DESCRIPTION>
+	</MAJOR>
+	</FACULTY>
+	
+	<FACULTY name = "Faculty of Electronics">
+	<MAJOR name = "Advanced Applied Electronics">
+	<DESCRIPTION>
+			Kształcenie obejmuje szeroką wiedzę w dziedzinie elektroniki, optoelektroniki, technik wielkich częstotliwości i telekomunikacji. 
+			Program kształcenia umożliwia poszerzenie teoretycznej i praktycznej wiedzy z zaawansowanych: analogowych i cyfrowych układów elektronicznych, 
+			laserów i światłowodów, elektroniki mikrofalowej, zastosowania programowalnych układów cyfrowych i mikroprocesorowych w urządzeniach i sieciach. 
+			Dzięki dostępności do laboratoriów badawczych studenci mają szansę osiągnąć elementarne doświadczenia dla ich przyszłej pracy w dziedzinie badań i rozwoju, 
+			a także na uczelniach. Realizując kursy  prowadzone całkowicie w języku angielskim, absolwent istotnie zwiększa swoje możliwości komunikacji językowej oraz potencjał mobilności.
+	</DESCRIPTION>
+	</MAJOR>
+	<MAJOR name = "Internet Engineering">
+	<DESCRIPTION>
+			Podobnie jak w przypadku specjalności w języku polskim, kształcenie obejmuje zagadnienia tworzenia serwisów i aplikacji internetowych. 
+			Obejmuje wiedzę w zakresie zarządzania i zapewnienia bezpieczeństwa usług internetowych, tworzenia aplikacji rozproszonych, aplikacji mobilnych, 
+			budowy hurtowni danych, inteligentnego przetwarzania i eksploracji danych. Absolwenci znajdują zatrudnienie przy tworzeniu i eksploatacji systemów oprogramowania 
+			i aplikacji internetowych (e-business, e-commerce, e-banking). Specyfiką specjalności jest nacisk kładziony na przygotowanie do pracy w języku angielskim 
+			oraz na pracę w zespołach wielonarodowościowych - umiejętności szczególnie cenione przez międzynarodowe koncerny informatyczne.
+	</DESCRIPTION>
+	</MAJOR>
+	<MAJOR name = "Advanced Informatics and Control">
+	<DESCRIPTION>
+			Kształcenie ukierunkowane jest na nabycie umiejętności i doświadczenia w projektowaniu praktycznych aplikacji informatycznych oraz komputerowych systemów sterowania 
+			na potrzeby przemysłu. Przygotowuje do rozwiązywania problemów informatycznych oraz zagadnień w obszarze kontroli procesów i systemów za pomocą klasycznych
+			i inteligentnych metod. Nacisk położony jest na innowacyjność i kreatywność, prezentowanie wyników własnych badań realizowanych w ramach 3 semestralnego przedmiotu 
+			Research Skills and Methodologies i warsztatów naukowych, organizowanych corocznie wspólnie przez oba ośrodki naukowe – brytyjski i polski. 
+			Istnieje możliwość uzyskania dyplomów obu uczelni (mgr inż. W Politechnice Wrocławskiej i MSc w uczelni angielskiej). Absolwenci mogą pracować zarówno w firmach typowo informatycznych, 
+			jak i projektujących systemy sterowania - na stanowiskach głównych projektantów, analityków systemowych, w działach Research and Development. 
+			Są przygotowani do pełnienia kierowniczych stanowisk w międzynarodowych firmach jak również do pracy na uniwersytetach i w jednostkach naukowo-badawczych.
+	</DESCRIPTION>
+	</MAJOR>
+	<MAJOR name = "Modern Telecommunications">
+	<DESCRIPTION>
+			Kształcenie na specjalności obejmuje nowoczesną telekomunikację optyczną, bezprzewodową, sieci multimedialne, a także bezpieczeństwo w ochronie przesyłanych informacji. 
+			Absolwenci specjalności mają umiejętności z zakresu projektowania i budowania nowoczesnych sieci telekomunikacyjnych. Specjalność jest prowadzona we współpracy 
+			z Uniwersytetem Nottingham w Anglii, gdzie będzie można odbyć część zaplanowanego programu studiów.
+	</DESCRIPTION>
+	</MAJOR>
+	<MAJOR name = "Embedded Robotics (Wbudowane systemy robotyki)">
+	<DESCRIPTION>
+			Nowoczesne urządzenia elektroniczne coraz częściej przyjmują postać systemów wbudowanych, zawierających zintegrowane z urządzeniem podsystemy mikroprocesorowe i komputerowe. 
+			Tego rodzaju urządzenia elektroniczne są podstawowym elementem składowym systemów robotyki, można je także znaleźć w konstrukcjach pojazdów, systemów awioniki, 
+			nawigacji i telekomunikacji, w systemach medycznych, w bankowości, a także w elektronice domowej i użytkowej. Kształcenie na specjalności obejmuje analizę 
+			i projektowanie systemów wbudowanych, techniki sterowania i sterowniki robotów, metody planowania ruchu i zadań robotów, systemy sensoryczne i napędowe, metody sztucznej inteligencji
+			i uczenie maszynowe, robotykę społeczną i interfejsy człowiek-robot. 
+	</DESCRIPTION>
+	</MAJOR>
+	<MAJOR name = "Electronics and Computer Engineering  (ECE)">
+	<DESCRIPTION>
+			Program studiowania na nowym kierunku Electronic and Computer Engineering (ECE) uwzględnia istotne potrzeby i wymagania współczesnego rynku pracy dla elektroników. 
+			Kierunek ten łączy wiedzę z zakresu tradycyjnej elektroniki z informatyką oraz automatyką i robotyką. Profil firm, które będą korzystać z kompetencji absolwentów tego kierunku, 
+			to przede wszystkim firmy produkcyjne i usługowe. W tym zakresie istnieje, a w najbliższym czasie będzie stale wzrastało, zapotrzebowanie na specjalistów z tytułem inżyniera elektronika, 
+			posiadających umiejętności integracji urządzeń i systemów elektronicznych analogowych i cyfrowych (w tym mikroprocesorowych) w szeroko rozumianej automatyce przemysłowej. 
+			Umiejętności te zawierają m.in. programowanie sterowników PLC, PAC, systemów SCADA oraz systemów robotycznych, uruchamiania i rozruchu systemów sterowania, lokalnego i zdalnego serwisu, 
+			zdalnego nadzoru nad pracującymi systemami sterowania produkcji. Również umiejętność projektowania szeroko rozumianych układów sterowania, systemów telemetrycznych
+			i pomiarowych będzie na rynku pracy przyjęta bardzo pozytywnie. 
+	</DESCRIPTION>
+	</MAJOR>
+	</FACULTY>
+	</FACULTIES>
+</UNIVERSITY>

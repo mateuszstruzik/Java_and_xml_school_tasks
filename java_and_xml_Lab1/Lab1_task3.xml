@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE memories SYSTEM "Lab1_task3.dtd">
+<memories>
+	<memory tapeid="No1">
+		<media mediaid="No1"></media>
+		<subdate>10-12-2016</subdate>
+		<subject>java</subject>
+		<media mediaid="No12"></media>
+	</memory>
+	<memory tapeid="No21">
+		<media mediaid="No21"></media>
+		<media mediaid="No22"></media>
+		<subject>cpp</subject>
+		<location>
+			<place>classrom</place>
+		</location>
+		<subject>python</subject>
+		<location>
+			<description>place where you can learn</description>
+		</location>
+	</memory>
+	<memory tapeid="No31">
+		<media mediaid="No31"></media>
+		<subject>i dont know</subject>
+		<donor>yes</donor>
+		<location>
+			<place>school</place>
+		</location>
+	</memory>
+</memories>
